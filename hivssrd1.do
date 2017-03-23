@@ -1,7 +1,6 @@
 //do file for processing first round of HBTC
 //created by Sussie
 //modified in a error  branch
-//edited locally
 import delimited "C:\Users\dkwaro\Documents\data dictionary\hivssrd1.csv", varnames(1) 
 generate index=_n
 order index
