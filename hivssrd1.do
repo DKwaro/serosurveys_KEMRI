@@ -1,3 +1,4 @@
+//do file for processing first round of HBTC
 import delimited "C:\Users\dkwaro\Documents\data dictionary\hivssrd1.csv", varnames(1) 
 generate index=_n
 order index
