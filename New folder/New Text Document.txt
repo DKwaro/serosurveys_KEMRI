@@ -1,3 +1,3 @@
 This is a text file nice
 maybe use it as a do file
-not really
+a third sentence
